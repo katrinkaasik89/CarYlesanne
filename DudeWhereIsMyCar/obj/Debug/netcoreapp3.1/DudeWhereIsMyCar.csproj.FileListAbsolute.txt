@@ -1,0 +1,13 @@
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\obj\Debug\netcoreapp3.1\DudeWhereIsMyCar.csprojAssemblyReference.cache
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\obj\Debug\netcoreapp3.1\DudeWhereIsMyCar.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\obj\Debug\netcoreapp3.1\DudeWhereIsMyCar.AssemblyInfo.cs
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\obj\Debug\netcoreapp3.1\DudeWhereIsMyCar.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\bin\Debug\netcoreapp3.1\DudeWhereIsMyCar.exe
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\bin\Debug\netcoreapp3.1\DudeWhereIsMyCar.deps.json
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\bin\Debug\netcoreapp3.1\DudeWhereIsMyCar.runtimeconfig.json
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\bin\Debug\netcoreapp3.1\DudeWhereIsMyCar.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\bin\Debug\netcoreapp3.1\DudeWhereIsMyCar.dll
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\bin\Debug\netcoreapp3.1\DudeWhereIsMyCar.pdb
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\obj\Debug\netcoreapp3.1\DudeWhereIsMyCar.dll
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\obj\Debug\netcoreapp3.1\DudeWhereIsMyCar.pdb
+C:\Users\Kati\source\repos\DudeWhereIsMyCar\DudeWhereIsMyCar\obj\Debug\netcoreapp3.1\DudeWhereIsMyCar.genruntimeconfig.cache
